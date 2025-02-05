@@ -1,4 +1,4 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+Air massess history analysis
 
 # (Replace_with_your_title) Cookbook
 
@@ -10,7 +10,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+interested in different air massess
 
 ## Authors
 
